@@ -9,6 +9,7 @@ $('.carousel').slick({
   });
 });
 
+
 $(function (){
 $('.home').on('mouseover',function(){
   $(this).animate({
