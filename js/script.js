@@ -16,6 +16,7 @@ $('.home').on('mouseover',function(){
    },250);
 });
 
+
 $('.home').on('mouseout',function(){
   $(this).animate({
     opacity:1.0,
